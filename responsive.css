@@ -1,0 +1,9 @@
+@media all and (max-width: 670px){
+    footer{
+        height:400px;
+    }
+
+    .form-list input{
+        width:50%;
+    }
+}
